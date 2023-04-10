@@ -11,4 +11,4 @@
   > Development environment configuration with Xmonad.
 
 **Simple Development Environment.**
-![xmonad](https://raw.githubusercontent.com/Fausto-Korpsvart/)
+![xmonad](https://raw.githubusercontent.com/Fausto-Korpsvart/xmonad/main/screeshots/xmonad.png)
