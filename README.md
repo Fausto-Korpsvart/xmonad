@@ -8,7 +8,9 @@
   	</p>
   </div>
 
-  > Development environment configuration with Xmonad.
+> Development environment configuration with Xmonad.
 
-**Simple Development Environment.**
-![xmonad](https://raw.githubusercontent.com/Fausto-Korpsvart/xmonad/main/screeshots/xmonad.png)
+**Kepp It Simple.**
+![xmonad](https://raw.githubusercontent.com/Fausto-Korpsvart/xmonad/main/screeshots/xmonad-01.png)
+![xmonad](https://raw.githubusercontent.com/Fausto-Korpsvart/xmonad/main/screeshots/xmonad-02.png)
+![xmonad](https://raw.githubusercontent.com/Fausto-Korpsvart/xmonad/main/screeshots/xmonad-03.png)
